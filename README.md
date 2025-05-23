@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @sillybanters
 - 👀 I’m interested in AI/ML
 - 🌱 I’m currently learning NLP and Multimodal Reasoning.
-- 💞️ I’m looking to collaborate in these areas.
 - 📫 How to reach me 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...

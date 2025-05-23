@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sillybanters
+👋 Hi, I’m @sillybanters
 
 
 <!---

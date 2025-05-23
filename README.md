@@ -1,9 +1,5 @@
 - 👋 Hi, I’m @sillybanters
-- 👀 I’m interested in AI/ML
-- 🌱 I’m currently learning NLP and Multimodal Reasoning.
-- 📫 How to reach me 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 
 <!---
 sillybanters/sillybanters is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

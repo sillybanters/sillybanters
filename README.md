@@ -1,13 +1,13 @@
-<h1 align="center">Hi 👋, I'm Nandan Bhowmick</h1>
-<h3 align="center">A passionate competitive programmer and ML enthusiast</h3>
+<h1 align="center">Hi 👋, I'm Parama Roy</h1>
+<h3 align="center">AI/ML Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nandan1436&label=Profile%20views&color=0e75b6&style=flat" alt="nandan1436" /> </p>
 
-- 🌱 I’m currently learning **Backend development using Java Spring and FastAPI, and Machine Learning**
+- 🌱 I’m currently interested in **Multimodal and Multi-agent Systems**
 
-- 💬 Ask me about **Competitive Programming, Machine Learning, DSA**
+- 💬 Ask me about **AI/ML Research**
 
-- 📫 How to reach me **nandanbhow123@gmail.com**
+- 📫 How to reach me **def@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

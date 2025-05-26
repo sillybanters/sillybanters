@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Parama Roy</h1>
+<h1 align="center">Hi 👋, I'm Silly Banters</h1>
 <h3 align="center">AI/ML Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nandan1436&label=Profile%20views&color=0e75b6&style=flat" alt="nandan1436" /> </p>
